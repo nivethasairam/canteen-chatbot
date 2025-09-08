@@ -1,6 +1,6 @@
 # SairamMenuIQ – Intelligent Canteen Chatbot
 
-This project is a Retrieval-Augmented Generation (RAG) web application for the Sairam College canteen, built using Spring Boot + LangChain4j + OpenAI + Qdrant with a simple HTML/JavaScript frontend.
+This project is a Retrieval-Augmented Generation (RAG) web application for the Sairam College canteen, built using Spring Boot + LangChain4j + OpenAI + Qdrant with a simple HTML&JavaScript frontend.
 
 ---
 
