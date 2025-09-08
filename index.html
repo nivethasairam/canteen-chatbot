@@ -2,9 +2,38 @@
 <html>
 <head>
   <title>Canteen Chatbot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 20px;
+    }
+    img {
+      width: 200px;
+      border-radius: 15px;
+      margin-bottom: 20px;
+    }
+    input {
+      padding: 8px;
+      width: 250px;
+    }
+    button {
+      padding: 8px 12px;
+      margin-left: 5px;
+      cursor: pointer;
+    }
+    #response {
+      color: darkblue;
+    }
+  </style>
 </head>
 <body>
   <h2>Ask the Canteen Bot</h2>
+
+ 
+  <img src="saibaba.jpg" alt="Saibaba Image">
+
+  <br>
   <input type="text" id="query" placeholder="Type your question..." />
   <button onclick="askBot()">Ask</button>
   <p><strong>Bot:</strong> <span id="response"></span></p>
@@ -12,3 +41,4 @@
   <script src="script.js"></script>
 </body>
 </html>
+
