@@ -30,3 +30,4 @@ canteen-chatbot/
                 └──  saibabaimage.jpg
 │           └── application.properties
 ├── pom.xml
+|---  canteenmenu.pdf
